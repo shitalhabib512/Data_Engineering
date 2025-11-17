@@ -1,4 +1,4 @@
----this file needs to be created in MYSQL workbench after cfeating connectivity between GCP MYSQL instance and local MYSQL workbench 
+--This file needs to be created in MYSQL workbench after cfeating connectivity between GCP MYSQL instance and local MYSQL workbench 
 
 create database GCPmigrationMeta;
 
